@@ -1,0 +1,62 @@
+{
+  "id": "1",
+  "group_id": "1",
+  "name": "Example Group",
+  "phone_number": "+1 5555555555",
+  "type": "private",
+  "description": "Group Description",
+  "image_url": "",
+  "creator_user_id": "2",
+  "created_at": 946684800,
+  "updated_at": 946684800,
+  "muted_until": 253402300800,
+  "audio_message_disabled": false,
+  "messages": {
+    "count": 10,
+    "last_message_id": "3",
+    "last_message_created_at": 946684800,
+    "last_message_updated_at": 946684800,
+    "preview": {
+      "nickname": "Last message sender",
+      "text": "Last message text",
+      "image_url": "",
+      "attachments": []
+    }
+  },
+  "max_members": 5000,
+  "theme_name": "ideas",
+  "like_icon": {
+    "type": "emoji",
+    "pack_id": 1,
+    "pack_index": 48
+  },
+  "requires_approval": false,
+  "show_join_question": false,
+  "join_question": null,
+  "message_deletion_period": 2147483647,
+  "message_deletion_mode": ["admin", "sender"],
+  "children_count": 1,
+  "share_url": "",
+  "share_qr_code_url": "",
+  "directories": [],
+  "members": [
+    {
+      "user_id": "4",
+      "nickname": "Nickname",
+      "image_url": "",
+      "id": "",
+      "muted": false,
+      "autokicked": false,
+      "roles": ["user"],
+      "name": "Name"
+    }
+  ],
+  "members_count": 1,
+  "locations": [],
+  "visibility": "hidden",
+  "category_ids": null,
+  "active_call_participants": null,
+  "unread_count": null,
+  "last_read_message_id": null,
+  "last_read_at": null
+}

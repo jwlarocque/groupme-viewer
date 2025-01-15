@@ -1,0 +1,20 @@
+[
+  {
+    "attachments": [],
+    "avatar_url": "https://i.groupme.com/720x1280.png.4e6bcd0768c745918817a85ceb7783c4",
+    "created_at": 946684800,
+    "favorited_by": ["4"],
+    "group_id": "1",
+    "id": "1000000000000",
+    "name": "Name",
+    "sender_id": "4",
+    "sender_type": "user",
+    "source_guid": "android-0b000000",
+    "system": false,
+    "text": "Message text",
+    "user_id": "4",
+    "pinned_at": null,
+    "pinned_by": "",
+    "reactions": [{ "type": "unicode", "user_ids": ["4"], "code": "❤️" }]
+  }
+]
